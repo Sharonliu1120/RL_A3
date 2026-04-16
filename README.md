@@ -8,32 +8,8 @@
 
 所有方法均在相同环境下运行，并通过多 seed 实验和插值对齐的方式进行公平比较。
 
-项目结构
 
-Assignment3/
-├── algorithms/
-│   ├── reinforce.py
-│   ├── ac.py
-│   └── a2c.py
-│
-├── models/
-│   ├── policy_network.py
-│   ├── value_network.py
-│   └── q_network.py
-│
-├── utils/
-│   ├── env.py
-│   ├── seed.py
-│   └── plot.py
-│
-├── results/              
-│
-├── train_reinforce.py     
-├── train_ac.py            
-├── train_a2c.py         
-│
-├── requirements.txt
-└── README.md
+
 
 环境配置
 
