@@ -26,11 +26,11 @@ Assignment3/
 │   ├── seed.py
 │   └── plot.py
 │
-├── results/               # 保存训练结果和图像
+├── results/              
 │
-├── train_reinforce.py     # 训练 REINFORCE
-├── train_ac.py            # 训练 Actor-Critic
-├── train_a2c.py           # 训练 A2C
+├── train_reinforce.py     
+├── train_ac.py            
+├── train_a2c.py         
 │
 ├── requirements.txt
 └── README.md
